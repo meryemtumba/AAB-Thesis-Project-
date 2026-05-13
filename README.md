@@ -53,14 +53,13 @@ This repository requires:
 
 Main packages used in the project:
 
-```python
+python
 pandas
 numpy
 matplotlib
 seaborn
 statsmodels
 scipy
-```
 
 Additional dependencies are listed at the beginning of each script.
 

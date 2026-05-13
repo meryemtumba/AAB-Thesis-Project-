@@ -8,8 +8,6 @@ The analyses were conducted separately for:
 - **Experiment 1 — Implicit Task**
 - **Experiment 2 — Explicit Task**
 
-# Statistical Workflow
-
 The analysis scripts include the following steps:
 
 ## 1. Loading Preprocessed Data

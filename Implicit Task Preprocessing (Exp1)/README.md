@@ -1,22 +1,14 @@
-````markdown id="h92qwl"
 # Implicit Task Preprocessing (Experiment 1)
 
 This folder contains the preprocessing pipeline for Implicit Task (Exp1) and the preprocessing was implemented in Python. 
 
 # Input Data
 
-The preprocessing pipeline combines several behavioural and eye-tracking files exported from the experimental setup.
+The preprocessing pipeline combines several behavioural and eye-tracking files.
 
 Typical input files include:
 
-reactionTime.csv
-timeFirstFixation.csv
-actualReaction.csv
-frameColor.csv
-frameSide.csv
-valence.csv
-blockOrder.csv
-subjectsToRemove.csv
+`reactionTime.csv, timeFirstFixation.csv, actualReaction.csv, frameColor.csv, frameSide.csv, valence.csv, blockOrder.csv, subjectsToRemove.csv `
 
 # Preprocessing Workflow
 

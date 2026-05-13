@@ -1,4 +1,4 @@
-# AAB - Master Thesis Project
+# Master's Thesis Project
 
 # Investigating the Temporal Relationship Between Fixation Timing and Reaction Time
 
@@ -23,7 +23,7 @@ The repository is organised into the following folders:
 
 ```text
 ├─ Analysis/
-│  Contains scripts for statistical analyses and plotting.
+│  Contains scripts for statistical modelling and plotting.
 │
 ├─ Explicit Preprocessing/
 │  Contains preprocessing scripts and documentation
@@ -35,38 +35,20 @@ The repository is organised into the following folders:
 │
 ├─ README.md
 └─ .gitignore
-````markdown
 
 Each preprocessing folder contains:
 
-* preprocessing scripts,
-* workflow documentation,
-* and a dedicated README explaining the corresponding pipeline.
+* Preprocessing scripts,
+* Workflow documentation,
+* A dedicated README explaining the corresponding pipeline.
 
----
-
-# Requirements
-
-This repository requires:
-
-* Python (≥ 3.10)
-
-Main packages used in the project:
-
-python
-pandas
-numpy
-matplotlib
-seaborn
-statsmodels
-scipy
-
-Additional dependencies are listed at the beginning of each script.
-
----
-
+````
 # Acknowledgements
-
 This thesis was conducted at the Neurobiopsychology Research Group, Institute of Cognitive Science, University of Osnabrück and all the data were provided by Aitana Grasso Cladera.
+
+````
+
+
+
 
 

@@ -46,7 +46,6 @@ Each preprocessing folder contains:
 # Acknowledgements
 This thesis was conducted at the Neurobiopsychology Research Group, Institute of Cognitive Science, University of Osnabrück and all the data were provided by Aitana Grasso Cladera.
 
-````
 
 
 

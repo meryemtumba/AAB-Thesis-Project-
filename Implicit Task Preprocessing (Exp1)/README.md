@@ -2,6 +2,15 @@
 
 This folder contains the preprocessing pipeline for Implicit Task (Exp1) and the preprocessing was implemented in Python. 
 
+## Files in This Folder
+
+### Behavioral/Eye-Tracking Preprocessing.ipynb
+Main preprocessing script for Experiment 1.  
+The script loads the partially preprocessed behavioural and eye-tracking data, merges participant sessions, cleans RT and TFF measures, constructs analysis variables, and generates the final datasets used for statistical analyses.
+
+### Implicit_Task Data_Experiment1.rtf
+Original preprocessing instructions and data description document provided by Aitana Grasso-Cladera.
+
 # Input Data
 
 The preprocessing pipeline combines several behavioural and eye-tracking files.
